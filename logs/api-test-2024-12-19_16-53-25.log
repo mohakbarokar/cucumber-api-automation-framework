@@ -1,0 +1,6 @@
+2024-12-19 16:53:26 INFO  api.utils.LoggerUtility - Deleting Users if any already present in backend
+2024-12-19 16:53:26 INFO  api.utils.LoggerUtility - Emails : [testuser04101993@testmail.coms, testuser04101993ups@testmail.coms]
+2024-12-19 16:53:28 INFO  api.utils.LoggerUtility - User List in not empty
+2024-12-19 16:53:28 INFO  api.utils.LoggerUtility - User present : {id=7592189, name=Test User, email=testuser04101993@testmail.coms, gender=male, status=active}, Deleting the user
+2024-12-19 16:53:29 INFO  api.utils.LoggerUtility - User Deleted : 7592189
+2024-12-19 16:53:30 WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 

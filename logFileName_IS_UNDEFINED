@@ -1,0 +1,32 @@
+2024-12-19 15:58:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohak.r.barokar\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2024-12-19 15:58:35 [main] INFO  api.utils.LoggerUtility - Deleting Users if any already present in backend
+2024-12-19 15:58:35 [main] INFO  api.utils.LoggerUtility - Emails : [testuser04101993@testmail.coms, testuser04101993ups@testmail.coms]
+2024-12-19 15:58:37 [main] INFO  api.utils.LoggerUtility - User List in not empty
+2024-12-19 15:58:37 [main] INFO  api.utils.LoggerUtility - User present : {id=7592132, name=Test User, email=testuser04101993@testmail.coms, gender=male, status=active}, Deleting the user
+2024-12-19 15:58:38 [main] INFO  api.utils.LoggerUtility - User Deleted : 7592132
+2024-12-19 15:58:39 [main] INFO  api.utils.LoggerUtility - Starting Test...
+2024-12-19 15:58:39 [main] INFO  api.utils.LoggerUtility - Request Body: {"gender":"male","name":"Test User","email":"testuser04101993@testmail.coms","status":"active"}
+2024-12-19 15:58:40 [main] INFO  api.utils.LoggerUtility - Response: {"id":7592134,"name":"Test User","email":"testuser04101993@testmail.coms","gender":"male","status":"active"}
+2024-12-19 15:58:41 [main] INFO  api.utils.LoggerUtility - Validating user with id
+2024-12-19 15:58:41 [main] INFO  api.utils.LoggerUtility - Test Execution Finished.
+2024-12-19 15:58:41 [main] INFO  api.utils.LoggerUtility - Starting Test...
+2024-12-19 15:58:41 [main] INFO  api.utils.LoggerUtility - Validating if User is present
+2024-12-19 15:58:41 [main] INFO  api.utils.LoggerUtility - Test Execution Finished.
+2024-12-19 16:02:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohak.r.barokar\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2024-12-19 16:02:42 [main] INFO  api.utils.LoggerUtility - Deleting Users if any already present in backend
+2024-12-19 16:02:42 [main] INFO  api.utils.LoggerUtility - Emails : [testuser04101993@testmail.coms, testuser04101993ups@testmail.coms]
+2024-12-19 16:02:45 [main] INFO  api.utils.LoggerUtility - User List in not empty
+2024-12-19 16:02:45 [main] INFO  api.utils.LoggerUtility - User present : {id=7592134, name=Test User, email=testuser04101993@testmail.coms, gender=male, status=active}, Deleting the user
+2024-12-19 16:02:45 [main] INFO  api.utils.LoggerUtility - User Deleted : 7592134
+2024-12-19 16:02:47 [main] INFO  api.utils.LoggerUtility - Starting Test...
+2024-12-19 16:02:47 [main] INFO  api.utils.LoggerUtility - Request Body: {"gender":"male","name":"Test User","email":"testuser04101993@testmail.coms","status":"active"}
+2024-12-19 16:02:48 [main] INFO  api.utils.LoggerUtility - Response: {"id":7592151,"name":"Test User","email":"testuser04101993@testmail.coms","gender":"male","status":"active"}
+2024-12-19 16:02:48 [main] INFO  api.utils.LoggerUtility - Validating user with id
+2024-12-19 16:02:48 [main] INFO  api.utils.LoggerUtility - Test Execution Finished.
+2024-12-19 16:02:48 [main] INFO  api.utils.LoggerUtility - Starting Test...
+2024-12-19 16:02:49 [main] INFO  api.utils.LoggerUtility - Validating if User is present
+2024-12-19 16:02:49 [main] INFO  api.utils.LoggerUtility - Test Execution Finished.

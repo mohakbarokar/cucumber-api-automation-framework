@@ -1,0 +1,15 @@
+2024-12-19 19:05:31 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohak.r.barokar\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2024-12-19 19:05:31 INFO  api.utils.LoggerUtility - Deleting Users if any already present in backend
+2024-12-19 19:05:31 INFO  api.utils.LoggerUtility - Emails : [testuser04101993@testmail.coms, testuser04101993ups@testmail.coms]
+2024-12-19 19:05:35 INFO  api.utils.LoggerUtility - Starting Test...
+2024-12-19 19:05:35 INFO  api.utils.LoggerUtility - Request Body: {"gender":"male","name":"Test User","email":"testuser04101993@testmail.coms","status":"active"}
+2024-12-19 19:05:35 INFO  api.utils.LoggerUtility - Response: {"id":7592582,"name":"Test User","email":"testuser04101993@testmail.coms","gender":"male","status":"active"}
+2024-12-19 19:05:36 INFO  api.utils.LoggerUtility - Validating user with id
+2024-12-19 19:05:36 INFO  api.utils.LoggerUtility - Test Execution Finished.
+2024-12-19 19:05:36 INFO  api.utils.LoggerUtility - Starting Test...
+2024-12-19 19:05:37 INFO  api.utils.LoggerUtility - Validating if User is present
+2024-12-19 19:05:37 INFO  api.utils.LoggerUtility - Test Execution Finished.
+2024-12-19 19:05:37 INFO  api.utils.LoggerUtility - Starting Test...
+2024-12-19 19:05:37 INFO  api.utils.LoggerUtility - Test Execution Finished.

@@ -1,0 +1,4 @@
+2024-12-19 19:17:51 INFO  api.utils.LoggerUtility - Deleting Users if any already present in backend
+2024-12-19 19:17:51 INFO  api.utils.LoggerUtility - Emails : [testuser04101993@testmail.coms, testuser04101993ups@testmail.coms]
+2024-12-19 19:17:55 INFO  api.utils.LoggerUtility - Starting Test...
+2024-12-19 19:17:55 INFO  api.utils.LoggerUtility - Test Execution Finished.

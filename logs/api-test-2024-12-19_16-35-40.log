@@ -1,0 +1,13 @@
+2024-12-19 16:35:41 INFO  api.utils.LoggerUtility - Deleting Users if any already present in backend
+2024-12-19 16:35:41 INFO  api.utils.LoggerUtility - Emails : [testuser04101993@testmail.coms, testuser04101993ups@testmail.coms]
+2024-12-19 16:35:43 INFO  api.utils.LoggerUtility - User List in not empty
+2024-12-19 16:35:43 INFO  api.utils.LoggerUtility - User present : {id=7592185, name=Test User, email=testuser04101993@testmail.coms, gender=male, status=active}, Deleting the user
+2024-12-19 16:35:44 INFO  api.utils.LoggerUtility - User Deleted : 7592185
+2024-12-19 16:35:45 INFO  api.utils.LoggerUtility - Starting Test...
+2024-12-19 16:35:45 INFO  api.utils.LoggerUtility - Request Body: {"gender":"male","name":"Test User","email":"testuser04101993@testmail.coms","status":"active"}
+2024-12-19 16:35:46 INFO  api.utils.LoggerUtility - Response: {"id":7592187,"name":"Test User","email":"testuser04101993@testmail.coms","gender":"male","status":"active"}
+2024-12-19 16:35:47 INFO  api.utils.LoggerUtility - Validating user with id
+2024-12-19 16:35:47 INFO  api.utils.LoggerUtility - Test Execution Finished.
+2024-12-19 16:35:47 INFO  api.utils.LoggerUtility - Starting Test...
+2024-12-19 16:35:48 INFO  api.utils.LoggerUtility - Validating if User is present
+2024-12-19 16:35:48 INFO  api.utils.LoggerUtility - Test Execution Finished.
